@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wilbert%20Miguel%20Nahuatlato%20Juárez&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mechatronics%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wilbert%20Miguel%20Nahuatlato&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mechatronics%20Engineer%20%C2%B7%20UNAM%20%C2%B7%20Embedded%20Systems%20%26%20Industrial%20Automation&descAlignY=55&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+circuits+that+think+%F0%9F%A4%96;Embedded+systems+%26+PCB+design+%F0%9F%94%A7;Learning+AI+%26+Machine+Learning+%F0%9F%A7%A0;Indie+game+dev+%26+DJ+on+the+side+%F0%9F%8E%A7;Founder+of+ECOLUME+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+circuits+that+think+%F0%9F%A4%96;CNC+design+%7C+Laser+systems+%7C+PLC+automation+%F0%9F%94%A7;Fuzzy+logic+%7C+Embedded+systems+%7C+AI+%F0%9F%A7%A0;Indie+game+dev+%26+DJ+on+the+side+%F0%9F%8E%A7;Founder+of+ECOLUME+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,63 +10,72 @@
 
 ## 👋 About me
 
-I'm **Wilbert Miguel Nahuatlato Juárez**, a mechatronics engineer from Mexico City 🇲🇽, currently in my thesis process. I'm passionate about connecting the physical world with the digital one — from low-level firmware on STM32 and ESP32 to AI algorithms, CNC machine design, and PCB engineering.
+I'm **Wilbert Miguel Nahuatlato Juárez**, a mechatronics engineer from UNAM 🇲🇽 (GPA 8.94), passionate about bridging the physical and digital worlds — from precision CNC machines and industrial laser rehabilitation to fuzzy logic controllers and embedded firmware.
 
-When I'm not in front of the oscilloscope or the IDE, I'm producing music as a DJ or developing indie video games.
+Currently doing my social service in industrial R&D, where I've led hardware/software integration projects with measurable results.
 
 ```
-🎓  Mechatronics Engineering — thesis in progress
-🏭  Founder of ECOLUME (PCB manufacturing startup concept — Mexico)
+🎓  Mechatronics Engineering — UNAM, Facultad de Ingeniería, DIMEI (10th semester)
+📈  GPA: 8.94
+🔬  Social service: Industrial Linkage Projects (Jan 2026 – present)
+🏭  Founder-in-progress: ECOLUME — PCB manufacturing startup in Mexico
 🤖  Currently learning: AI / Machine Learning algorithms
-🎮  Indie game dev
-🎧  HARDSTYLE & HARDCORE DJ 
-📍  Mexico
+🎮  Indie game dev  |  🎧  DJ
+📍  Coyoacán, CDMX, México
 ```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Embedded Systems & Hardware
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
-![PIC](https://img.shields.io/badge/PIC_Microcontroller-ED1C24?style=for-the-badge&logo=microchip-technology&logoColor=white)
-
-### 🧰 Design & Simulation Tools
-![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔧 [CNC Machine](https://github.com/TU_USUARIO) | Design and construction of a CNC machine from scratch using CAD/CAM | C · Arduino · Inventor |
-| 🔩 [4-Stroke Engine Mockup](https://github.com/TU_USUARIO) | Functional model of a 4-stroke engine with mechanical design | CAD/CAM · Inventor |
-| 📂 [All repositories →](https://github.com/TU_USUARIO?tab=repositories) | | |
+### 🔧 CNC 3-Axis Cutting Machine
+> Led the full technical development: structural CAD design, electronic component selection, and control system programming. Result: **millimetric-precision machine** for rapid prototyping, reducing dependency on external suppliers.
 
-> 📌 **Tip:** Pin your best 6 repos to make them appear here visually at the top of your GitHub profile.
+### 💡 CO2 Laser Tube Regassing System
+> Designed a high-vacuum manifold and developed Python scripts for precise gas mixture calculation (CO₂/N₂/He). Restored laser tube output to **85% of original power**, enabling component rehabilitation instead of disposal.
+
+### 🧠 Fuzzy Logic Process Optimizer
+> Integrated fuzzy logic algorithms with low-cost sensors to optimize an industrial material transport system — no new hardware required. Achieved **−30% operating cycle time** and **−15% electricity consumption**.
+
+### ⚡ Adaptive Hardware Migration
+> Managed emergency migration of hardware architecture and control code when microcontrollers became unavailable mid-project. Delivered on schedule with **30% improvement in performance stability**.
 
 ---
 
-## 🌱 ECOLUME — The dream
+## 🛠️ Tech Stack
 
-> 🇲🇽 **Long-term vision**: building a PCB design and manufacturing company in Mexico — focused on quality, local supply chain, and bridging the gap between Mexican engineers and accessible electronics manufacturing. Currently in concept and prototyping stage.
->
-> *If you're interested in collaborating or you share this vision — let's talk.*
+### 💻 Languages & Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### ⚙️ Embedded Systems & Microcontrollers
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
+![PIC](https://img.shields.io/badge/PIC-ED1C24?style=for-the-badge&logoColor=white)
+
+### 🏭 Industrial Automation & Control
+![TIA Portal](https://img.shields.io/badge/TIA_Portal_(Siemens_PLC)-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Simulink](https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+### 🧰 Design & Simulation
+![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-FF6D00?style=for-the-badge&logo=autodesk&logoColor=white)
+![NI Multisim](https://img.shields.io/badge/NI_Multisim-FFDB00?style=for-the-badge&logo=ni&logoColor=black)
+![Wolfram](https://img.shields.io/badge/Wolfram_Mathematica-DD1100?style=for-the-badge&logo=wolfram&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🖥️ Environment
+![Linux](https://img.shields.io/badge/Linux_(Ubuntu)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -82,6 +91,16 @@ When I'm not in front of the oscilloscope or the IDE, I'm producing music as a D
 
 ---
 
+## 🌱 ECOLUME — The long-term vision
+
+> 🇲🇽 Building a **PCB design and manufacturing company in Mexico** — focused on quality, local supply chains, and accessible electronics for Mexican engineers and makers.
+>
+> My hands-on experience in circuit design, embedded systems, and industrial component rehabilitation is the foundation for this. Currently in concept stage.
+>
+> *Interested in collaborating or sharing the vision? Let's talk.*
+
+---
+
 ## 📫 Connect with me
 
 <div align="center">
@@ -89,7 +108,7 @@ When I'm not in front of the oscilloscope or the IDE, I'm producing music as a D
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO_IG)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/TU_USUARIO_SPOTIFY)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wnilbert@gmail.com)
 
 </div>
 
