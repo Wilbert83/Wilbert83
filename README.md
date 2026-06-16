@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wilbert%20Miguel%20Nahuatlato%20Juárez&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mechatronics%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20AI%20Enthusiast&descAlignY=55&descAlign=50" />|
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wilbert%20Miguel%20Nahuatlato%20Juárez&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mechatronics%20Engineer%20%C2%B7%20UNAM%20%C2%B7%20Embedded%20Systems%20%26%20Industrial%20Automation&descAlignY=55&descAlign=50" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+circuits+that+think+%F0%9F%A4%96;CNC+design+%7C+Laser+systems+%7C+PLC+automation+%F0%9F%94%A7;Fuzzy+logic+%7C+Embedded+systems+%7C+AI+%F0%9F%A7%A0;Indie+game+dev+%26+DJ+on+the+side+%F0%9F%8E%A7;Founder+of+ECOLUME+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
