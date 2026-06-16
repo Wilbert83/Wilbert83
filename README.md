@@ -11,17 +11,15 @@
 
 ## 👋 About me
 
-I'm **Wilbert Miguel Nahuatlato Juárez**, a mechatronics engineer from UNAM 🇲🇽 (GPA 8.94), passionate about bridging the physical and digital worlds — from precision CNC machines and industrial laser rehabilitation to fuzzy logic controllers and embedded firmware.
+I'm **Wilbert Miguel Nahuatlato Juárez**, a mechatronics engineer from UNAM 🇲🇽, passionate about bridging the physical and digital worlds — from precision CNC machines and industrial laser rehabilitation to fuzzy logic controllers and embedded firmware.
 
 Currently doing my social service in industrial R&D, where I've led hardware/software integration projects with measurable results.
 
 ```
-🎓  Mechatronics Engineering — UNAM, Facultad de Ingeniería, DIMEI (10th semester)
-📈  GPA: 8.94
-🔬  Social service: Industrial Linkage Projects (Jan 2026 – present)
+🎓  Mechatronics Engineering — UNAM, Facultad de Ingeniería, DIMEI
 🏭  Founder-in-progress: ECOLUME — PCB manufacturing startup in Mexico
 🤖  Currently learning: AI / Machine Learning algorithms
-🎮  Indie game dev  |  🎧  DJ
+🎮  Indie game dev  |  🎧  DJ Hardstyle & Hardcore
 📍  Coyoacán, CDMX, México
 ```
 
@@ -34,9 +32,6 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 
 ### 💡 CO2 Laser Tube Regassing System
 > Designed a high-vacuum manifold and developed Python scripts for precise gas mixture calculation (CO₂/N₂/He). Restored laser tube output to **85% of original power**, enabling component rehabilitation instead of disposal.
-
-### 🧠 Fuzzy Logic Process Optimizer
-> Integrated fuzzy logic algorithms with low-cost sensors to optimize an industrial material transport system — no new hardware required. Achieved **−30% operating cycle time** and **−15% electricity consumption**.
 
 ### ⚡ Adaptive Hardware Migration
 > Managed emergency migration of hardware architecture and control code when microcontrollers became unavailable mid-project. Delivered on schedule with **30% improvement in performance stability**.
@@ -106,9 +101,9 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO_LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TU_USUARIO_IG)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/TU_USUARIO_SPOTIFY)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuatlato-juarez-wilbert-miguel/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguel_ssk0678/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22kslaeuscop3m36liz2qlz4i?si=cf11d2b2e5c9425c)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wnilbert@gmail.com)
 
 </div>
