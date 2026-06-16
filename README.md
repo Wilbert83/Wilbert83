@@ -10,7 +10,7 @@
 
 ## 👋 About me
 
-I'm **Wilbert Miguel Nahuatlato**, a mechatronics engineer from Mexico 🇲🇽, currently in my thesis process. I'm passionate about connecting the physical world with the digital one — from low-level firmware on STM32 and ESP32 to AI algorithms, CNC machine design, and PCB engineering.
+I'm **Wilbert Miguel Nahuatlato Juárez**, a mechatronics engineer from Mexico City 🇲🇽, currently in my thesis process. I'm passionate about connecting the physical world with the digital one — from low-level firmware on STM32 and ESP32 to AI algorithms, CNC machine design, and PCB engineering.
 
 When I'm not in front of the oscilloscope or the IDE, I'm producing music as a DJ or developing indie video games.
 
@@ -19,7 +19,7 @@ When I'm not in front of the oscilloscope or the IDE, I'm producing music as a D
 🏭  Founder of ECOLUME (PCB manufacturing startup concept — Mexico)
 🤖  Currently learning: AI / Machine Learning algorithms
 🎮  Indie game dev
-🎧  DJ
+🎧  HARDSTYLE & HARDCORE DJ 
 📍  Mexico
 ```
 
