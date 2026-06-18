@@ -1,9 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wilbert%20Miguel%20Nahuatlato%20Juárez&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mechatronics%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20AI%20Enthusiast&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wilbert%20Miguel%20Nahuatlato%20Juárez&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Mechatronics%20Engineer%20%C2%B7%20Embedded%20Systems%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Industrial%20Automation&descAlignY=55&descAlign=50" />
 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+circuits+that+think+%F0%9F%A4%96;CNC+design+%7C+Laser+systems+%7C3D+printing+%7C+PLC+automation+%F0%9F%94%A7;Fuzzy+logic+%7C+Embedded+systems+%7C+AI+%F0%9F%A7%A0;Indie+game+dev+%26+DJ+on+the+side+%F0%9F%8E%A7;Founder+of+ECOLUME+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+circuits+that+think+%F0%9F%A4%96;CNC+design+%7C+Laser+systems+%7C+3D+printing+%7C+PLC+automation+%F0%9F%94%A7;Fuzzy+logic+%7C+Embedded+systems+%7C+AI+%F0%9F%A7%A0;Indie+game+dev+%26+DJ+on+the+side+%F0%9F%8E%A7;Founder+of+ECOLUME+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
 
 
 
@@ -26,17 +25,26 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 ```
 
 ---
+## 🎧 Now Playing
+
+> I'm also a DJ — music is where my creativity lives outside the lab.
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22kslaeuscop3m36liz2qlz4i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=22kslaeuscop3m36liz2qlz4i&redirect=true)
+---
 
 ## 🚀 Featured Projects
 
 ### 🔧 CNC 3-Axis Cutting Machine
-> Led the full technical development: structural CAD design, electronic component selection, and control system programming. Result: **millimetric-precision machine** for rapid prototyping, reducing dependency on external suppliers.
+> Led full technical development as team lead: structural CAD design, electronic component selection, and control system programming. Result: **millimetric-precision machine** for rapid prototyping, reducing dependency on external suppliers for custom parts.
 
-### 💡 CO2 Laser Tube Regassing System
-> Designed a high-vacuum manifold and developed Python scripts for precise gas mixture calculation (CO₂/N₂/He). Restored laser tube output to **85% of original power**, enabling component rehabilitation instead of disposal.
+### 💡 CO₂ Laser Tube Regassing System
+> Designed a high-vacuum manifold and developed **Python scripts** for precise gas mixture calculation (CO₂/N₂/He). Restored laser tube output to **85% of original power**, enabling component rehabilitation over disposal. Applied plasma physics, thermofluids, and control principles.
+
+### 🧠 Fuzzy Logic Process Optimizer
+> Integrated fuzzy logic algorithms with low-cost sensors to optimize an industrial material transport system — no new hardware required. Achieved **−30% operating cycle time** and **−15% electricity consumption**.
 
 ### ⚡ Adaptive Hardware Migration
-> Managed emergency migration of hardware architecture and control code when microcontrollers became unavailable mid-project. Delivered on schedule with **30% improvement in performance stability**.
+> Managed emergency migration of hardware architecture and control code mid-project when microcontrollers became unavailable. Delivered on schedule with **30% improvement in performance stability** under pressure.
 
 ---
 
@@ -77,6 +85,15 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 
 ---
 
+## 🌐 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇲🇽 Spanish | Native |
+| 🇺🇸 English | Advanced |
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -99,6 +116,24 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 
 ---
 
+## 🥇 Certifications & Courses
+
+- 🧠 **Curso-Taller de Desarrollo de Habilidades Directivas** — Facultad de Ingeniería, UNAM (60 h) · 2025
+- 📊 **Diplomado en Educación Financiera** — Condusef (en línea) · 2024
+
+---
+
+## 💼 Experience
+
+**Industrial Linkage Projects — Social Service** · UNAM, Facultad de Ingeniería *(Jan 2026 – present)*
+- Designing specialized protocols for rehabilitation of industrial components (thermofluids, plasma physics, control)
+- Optimizing manufacturing processes and industrial plant distribution analysis
+
+**CNC 3-Axis Cutting Machine — Technical Lead** · CAD-CAM course *(2025)*
+- Responsible for electronic design, programming, and control system of a 3-axis CNC cutter
+- Coordinated multidisciplinary team across mechanical, electronic, and software areas
+
+---
 ## 📫 Connect with me
 
 <div align="center">
@@ -114,7 +149,10 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 
 <div align="center">
 
-*"La mecatrónica es el arte de hacer que las máquinas y el código se entiendan."*
+*"La Mecatrónica representa tanto una disciplina interdisciplinaria (Las disciplinas se fusionan y crean nuevos enfoques que no existían en ninguna de las disciplinas originales por separado y los límites entre las disciplinas se difuminan) como una filosofía de diseño multidisciplinaria (Varias disciplinas trabajan en paralelo, pero cada una mantiene su identidad y métodos separados, como en un equipo donde cada especialista hace su parte independientemente) que integra de manera armónica y sinérgica la mecánica, la electrónica, la informática y las teorías de control automático.
+Esta dualidad conceptual es fundamental para comprender su alcance y aplicación en la ingeniería moderna. 
+Como disciplina, la mecatrónica surge como respuesta a la creciente necesidad de integrar múltiples áreas del conocimiento en la ingeniería, con el fin de desarrollar productos más eficientes, funcionales, inteligentes y adaptativos.
+Como filosofía, constituye una forma de pensar y abordar el diseño de sistemas que busca la sinergia entre diferentes campos técnicos para crear sistemas inteligentes y flexibles."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
