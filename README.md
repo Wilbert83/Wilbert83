@@ -21,7 +21,7 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 🏭  Founder-in-progress: ECOLUME — PCB manufacturing startup in Mexico
 🤖  Currently learning: AI / Machine Learning algorithms
 🎮  Indie game dev  |  🎧  DJ Hardstyle & Hardcore
-📍  Coyoacán, CDMX, México
+📍   Coyoacán, CDMX, México
 ```
 
 ---
