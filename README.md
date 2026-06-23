@@ -27,7 +27,7 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 ---
 ## 🎧 Now Playing
 
-> I'm also a DJ — music is where my creativity lives outside the lab.
+> I'm also a DJ — Music is where my creativity lives outside the lab.
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22kslaeuscop3m36liz2qlz4i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=22kslaeuscop3m36liz2qlz4i&redirect=true)
@@ -87,12 +87,14 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 
 ---
 
-## 🌐 Languages
+## 📐 Areas of Interest
 
-| Language | Level |
-|----------|-------|
-| 🇲🇽 Spanish | Native |
-| 🇺🇸 English | Advanced |
+- ⚙️ **Embedded systems & firmware** — microcontroller programming, real-time control
+- 🏭 **Industrial automation** — PLC, SCADA, pneumatic systems, process optimization
+- 🔌 **PCB design & electronics manufacturing** — the foundation of ECOLUME
+- 🤖 **AI & control algorithms** — fuzzy logic, neural networks, optimization
+- 🔧 **Mechatronic system integration** — hardware + software + mechanics working as one
+- 🖥️ **Desktop tool development** — Python GUI apps that solve real engineering problems
 
 ---
 
@@ -108,13 +110,18 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 
 ---
 
-## 🌱 ECOLUME — The long-term vision
+## 💼 Experience
 
-> 🇲🇽 Building a **PCB design and manufacturing company in Mexico** — focused on quality, local supply chains, and accessible electronics for Mexican engineers and makers.
->
-> My hands-on experience in circuit design, embedded systems, and industrial component rehabilitation is the foundation for this. Currently in concept stage.
->
-> *Interested in collaborating or sharing the vision? Let's talk.*
+**Industrial Linkage Projects — Social Service** · UNAM, Facultad de Ingeniería *(Jan 2026 – present)*
+- Designing specialized protocols for rehabilitation of industrial components (thermofluids, plasma physics, control)
+- Optimizing manufacturing processes and industrial plant distribution analysis
+- Developed CO₂ laser regassing system restoring tube output to 85% original power
+- Implemented fuzzy logic control reducing cycle time by 30% and energy consumption by 15%
+
+**CNC 3-Axis Cutting Machine — Technical Lead** · CAD-CAM course *(2025)*
+- Responsible for electronic design, programming, and control system of a 3-axis CNC cutter
+- Coordinated multidisciplinary team across mechanical, electronic, and software areas
+- Achieved millimetric precision in final build
 
 ---
 
@@ -124,16 +131,32 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 - 📊 **Diplomado en Educación Financiera** — Condusef (en línea) · 2024
 
 ---
+## 🌐 Languages
 
-## 💼 Experience
+| Language | Level |
+|----------|-------|
+| 🇲🇽 Spanish | Native |
+| 🇺🇸 English | Advanced |
 
-**Industrial Linkage Projects — Social Service** · UNAM, Facultad de Ingeniería *(Jan 2026 – present)*
-- Designing specialized protocols for rehabilitation of industrial components (thermofluids, plasma physics, control)
-- Optimizing manufacturing processes and industrial plant distribution analysis
+---
 
-**CNC 3-Axis Cutting Machine — Technical Lead** · CAD-CAM course *(2025)*
-- Responsible for electronic design, programming, and control system of a 3-axis CNC cutter
-- Coordinated multidisciplinary team across mechanical, electronic, and software areas
+## 🌱 ECOLUME — The long-term vision
+
+> 🇲🇽 Building a **PCB design and manufacturing company in Mexico** — focused on quality, local supply chains, and accessible electronics for Mexican engineers and makers.
+>
+> My hands-on experience in circuit design, embedded systems, and industrial component rehabilitation is the foundation for this. Currently in concept stage.
+>
+> *Interested in collaborating or sharing the vision? Let's talk.*
+
+---
+## 🎮 Beyond Engineering
+
+I believe engineers are shaped by more than their tools. Outside the lab:
+
+- 🎧 **DJ (Hardstyle & Hardcore)** — I mix and produce electronic music. There's more overlap between signal processing and music than most people think.
+- 🎮 **Indie game developer** — Building games solo: design, code, and systems thinking all at once.
+- 📖 **9 semesters of mechatronics — documented** — I compiled my entire university curriculum into a single [reference repository](https://github.com/Wilbert83/INGENIERIA-MECATRONICA) as a living knowledge base.
+- 🔭 **Curious by default** — from plasma physics to AI to financial literacy, I follow curiosity wherever it leads.
 
 ---
 ## 📫 Connect with me
@@ -151,10 +174,7 @@ Currently doing my social service in industrial R&D, where I've led hardware/sof
 
 <div align="center">
 
-*"La Mecatrónica representa tanto una disciplina interdisciplinaria (Las disciplinas se fusionan y crean nuevos enfoques que no existían en ninguna de las disciplinas originales por separado y los límites entre las disciplinas se difuminan) como una filosofía de diseño multidisciplinaria (Varias disciplinas trabajan en paralelo, pero cada una mantiene su identidad y métodos separados, como en un equipo donde cada especialista hace su parte independientemente) que integra de manera armónica y sinérgica la mecánica, la electrónica, la informática y las teorías de control automático.
-Esta dualidad conceptual es fundamental para comprender su alcance y aplicación en la ingeniería moderna. 
-Como disciplina, la mecatrónica surge como respuesta a la creciente necesidad de integrar múltiples áreas del conocimiento en la ingeniería, con el fin de desarrollar productos más eficientes, funcionales, inteligentes y adaptativos.
-Como filosofía, constituye una forma de pensar y abordar el diseño de sistemas que busca la sinergia entre diferentes campos técnicos para crear sistemas inteligentes y flexibles."*
+*"Mechatronics is both an interdisciplinary field — where disciplines fuse to create entirely new approaches — and a multidisciplinary design philosophy where each specialization maintains its identity while working in synergy. It integrates mechanics, electronics, computer science, and automatic control theory to engineer systems that are intelligent, adaptive, and functional."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
