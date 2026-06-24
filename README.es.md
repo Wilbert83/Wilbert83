@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wilbert%20Miguel%20Nahuatlato%20Juárez&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Ingeniero%20Mecatrónico%20%C2%B7%20Sistemas%20Embebidos%20%C2%B7%20IA%20%C2%B7%20Automatización%20Industrial&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Wilbert%20Miguel%20Nahuatlato%20Juárez&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Ingeniero%20Mecatrónico%20%C2%B7%20Sistemas%20Embebidos%20%C2%B7%20Entusiasta%20de%20IA%20%C2%B7%20Automatización%20Industrial&descAlignY=55&descAlign=50" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Construyendo+circuitos+que+piensan+%F0%9F%A4%96;Diseño+CNC+%7C+Sistemas+láser+%7C+Automatización+PLC+%F0%9F%94%A7;Lógica+difusa+%7C+Sistemas+embebidos+%7C+IA+%F0%9F%A7%A0;Game+dev+indie+%26+DJ+Hardstyle+%F0%9F%8E%A7;Fundador+de+ECOLUME+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Construyendo+circuitos+que+piensan+%F0%9F%A4%96;Diseño+CNC+%7C+Sistemas+láser+%7C+Impresión+3D+%7C+PLC+%F0%9F%94%A7;Lógica+difusa+%7C+Sistemas+embebidos+%7C+IA+%F0%9F%A7%A0;Game+dev+indie+%26+DJ+en+el+tiempo+libre+%F0%9F%8E%A7;Fundador+de+ECOLUME+%F0%9F%87%B2%F0%9F%87%BD)](https://git.io/typing-svg)
 
 <br/>
 
@@ -14,14 +14,15 @@
 
 ## 👋 Sobre mí
 
-Soy **Wilbert Miguel Nahuatlato Juárez**, ingeniero mecatrónico de la **UNAM** 🇲🇽 — conecto el mundo físico con el digital, desde máquinas CNC de precisión y rehabilitación de tubos láser CO₂ hasta controladores de lógica difusa y firmware embebido. Actualmente en servicio social en I+D industrial, liderando proyectos de integración hardware/software con resultados medibles.
+Soy **Wilbert Miguel Nahuatlato Juárez**, ingeniero mecatrónico de la UNAM 🇲🇽, apasionado por conectar el mundo físico con el digital — desde máquinas CNC de precisión y rehabilitación de tubos láser industriales hasta controladores de lógica difusa y firmware embebido.
+
+Actualmente realizando mi servicio social en I+D industrial, donde he liderado proyectos de integración hardware/software con resultados medibles.
 
 ```
-🎓  Ingeniería Mecatrónica — UNAM, Facultad de Ingeniería, DIMEI · Promedio: 8.94
-🔬  Servicio social: Proyectos de Vinculación Industrial (Ene 2026 – presente)
-🏭  Fundador en proceso: ECOLUME — startup de diseño y fabricación de PCBs · México
+🎓  Ingeniería Mecatrónica — UNAM, Facultad de Ingeniería, DIMEI
+🏭  Fundador en proceso: ECOLUME — startup de fabricación de PCBs en México
 🤖  Aprendiendo actualmente: algoritmos de IA y Machine Learning
-🎮  Desarrollador de videojuegos indie  |  🎧  DJ — Hardstyle & Hardcore
+🎮  Desarrollador de videojuegos indie  |  🎧  DJ Hardstyle & Hardcore
 📍  Coyoacán, CDMX, México
 ```
 
@@ -29,44 +30,31 @@ Soy **Wilbert Miguel Nahuatlato Juárez**, ingeniero mecatrónico de la **UNAM**
 
 ## 🎧 Sonando ahora
 
-> La música es donde vive mi creatividad fuera del laboratorio — DJ especializado en Hardstyle & Hardcore.
+> También soy DJ — la música es donde vive mi creatividad fuera del laboratorio.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22kslaeuscop3m36liz2qlz4i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=22kslaeuscop3m36liz2qlz4i&redirect=true)
-
----
-
-## 🔨 Construyendo ahora
-
-| Proyecto | Descripción | Estado | Stack |
-|---------|-------------|--------|-------|
-| [Kalkuladora-Derivadas-flet](https://github.com/Wilbert83/Kalkuladora-Derivadas-flet) | Calculadora de derivadas simbólicas y numéricas con renderizado LaTeX | ✅ Publicado | Python · Flet · SymPy |
-| [kompressPdf](https://github.com/Wilbert83/kompressPdf) | App de escritorio para comprimir PDFs con vista previa en vivo | ✅ Publicado | Python · Flet · pypdfium2 |
-| [Herramienta-Paschen-Laser](https://github.com/Wilbert83/Herramienta-Paschen-para-Regasificacion-Laser) | Calculadora de regassing de tubos láser CO₂ usando la Ley de Paschen | ✅ Publicado | Python |
-| [Termonator](https://github.com/Wilbert83/Termonator) | Simulador de curva de calentamiento del H₂O (IAPWS-IF97 Región 4) | ✅ Publicado | Python · IAPWS |
-| Tesis / Titulación | Proyecto final de ingeniería en proceso | 🔄 En curso | TBD |
-| Firmware CNC | Documentando el build de la CNC de 3 ejes | 📋 Planeado | C · Arduino |
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22kslaeuscop3m36liz2qlz4i&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=22kslaeuscop3m36liz2qlz4i&redirect=true)
 
 ---
 
-## 🚀 Proyectos destacados
+## 🚀 Proyectos Destacados
 
-### 🔧 [Máquina CNC de 3 Ejes](https://github.com/Wilbert83)
-> Líder técnico del desarrollo completo: diseño estructural en CAD, selección de componentes electrónicos y programación del sistema de control. Resultado: **máquina de precisión milimétrica** para prototipado rápido, reduciendo la dependencia de proveedores externos.
+### 🔧 Máquina CNC de 3 Ejes
+> Lideré el desarrollo técnico completo como responsable del equipo: diseño estructural en CAD, selección de componentes electrónicos y programación del sistema de control. Resultado: **máquina de precisión milimétrica** para prototipado rápido, reduciendo la dependencia de proveedores externos para piezas personalizadas.
 
-### 💡 [Sistema de Regassing para Láser CO₂](https://github.com/Wilbert83/Herramienta-Paschen-para-Regasificacion-Laser)
-> Diseñé un manifold de alto vacío y desarrollé scripts en Python para el cálculo preciso de la mezcla de gases (CO₂/N₂/He). Se restauró la potencia del tubo láser al **85% de su valor original**, habilitando la rehabilitación en lugar del desecho. Aplicación de física de plasmas, termofluidos y control.
+### 💡 Sistema de Regassing para Tubo Láser CO₂
+> Diseñé un manifold de alto vacío y desarrollé **scripts en Python** para el cálculo preciso de la mezcla de gases (CO₂/N₂/He). Restauré la potencia del tubo láser al **85% de su valor original**, habilitando la rehabilitación del componente en lugar de su desecho. Apliqué física de plasmas, termofluidos y principios de control.
 
 ### 🧠 Optimizador con Lógica Difusa
-> Integré algoritmos de lógica difusa con sensores de bajo costo para optimizar un sistema industrial de transporte de materiales — sin adquirir hardware nuevo. Logré **−30% en tiempo de ciclo** y **−15% en consumo eléctrico**.
+> Integré algoritmos de lógica difusa con sensores de bajo costo para optimizar un sistema industrial de transporte de materiales — sin necesidad de adquirir nuevo hardware. Logré **−30% en tiempo de ciclo operativo** y **−15% en consumo eléctrico**.
 
 ### ⚡ Migración Adaptativa de Hardware
-> Gestioné la migración de emergencia de arquitectura de hardware y código de control a mitad del proyecto ante escasez de microcontroladores. Entregué en fecha con **30% de mejora en estabilidad de desempeño** bajo presión.
+> Gestioné la migración de emergencia de la arquitectura de hardware y el código de control a mitad del proyecto ante la falta de microcontroladores disponibles. Entregué en la fecha estipulada con una **mejora del 30% en estabilidad de desempeño** bajo presión.
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
-### 💻 Lenguajes de Programación
+### 💻 Lenguajes y Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -118,17 +106,7 @@ Soy **Wilbert Miguel Nahuatlato Juárez**, ingeniero mecatrónico de la **UNAM**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wilbert83&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilbert83&layout=compact&theme=tokyonight&hide_border=true&hide=html)
-
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Wilbert83&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wilbert83&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -137,14 +115,15 @@ Soy **Wilbert Miguel Nahuatlato Juárez**, ingeniero mecatrónico de la **UNAM**
 ## 💼 Experiencia
 
 **Proyectos de Vinculación Industrial — Servicio Social** · UNAM, Facultad de Ingeniería *(Ene 2026 – presente)*
-- Diseño de protocolos especializados para rehabilitación de componentes industriales (termofluidos, física de plasmas, control)
-- Sistema de regassing para láser CO₂ restaurando potencia al **85%**
-- Control por lógica difusa reduciendo tiempo de ciclo **30%** y consumo eléctrico **15%**
-- Optimización de procesos de manufactura y análisis de distribución de plantas
+- Diseño de protocolos especializados para la rehabilitación de componentes industriales (termofluidos, física de plasmas, control)
+- Optimización de procesos de manufactura y análisis de distribución de plantas industriales
+- Desarrollo de sistema de regassing para láser CO₂ restaurando la potencia del tubo al 85%
+- Implementación de control por lógica difusa reduciendo el tiempo de ciclo un 30% y el consumo eléctrico un 15%
 
 **Máquina CNC de 3 Ejes — Líder Técnico** · Materia CAD-CAM *(2025)*
-- Responsable del diseño electrónico, programación y sistema de control de la CNC
-- Coordinación de equipo multidisciplinario en áreas mecánica, electrónica y software
+- Responsable del diseño electrónico, programación y sistema de control de la CNC cortadora de 3 ejes
+- Coordinación de equipo multidisciplinario en las áreas de electrónica, mecánica y software
+- Precisión milimétrica lograda en el build final
 
 ---
 
@@ -164,24 +143,24 @@ Soy **Wilbert Miguel Nahuatlato Juárez**, ingeniero mecatrónico de la **UNAM**
 
 ---
 
-## 🎮 Más allá de la ingeniería
-
-Creo que los ingenieros se forman con más cosas que sus herramientas. Fuera del laboratorio:
-
-- 🎧 **DJ (Hardstyle & Hardcore)** — mezclo y produzco música electrónica. Hay más conexión entre el procesamiento de señales y la música de lo que la gente cree.
-- 🎮 **Desarrollador de videojuegos indie** — construyo juegos en solitario: diseño, código y pensamiento sistémico a la vez.
-- 📖 **9 semestres de mecatrónica — documentados** — compilé todo mi plan de estudios universitario en un solo [repositorio de referencia](https://github.com/Wilbert83/INGENIERIA-MECATRONICA) como base de conocimiento viva.
-- 🔭 **Curioso por naturaleza** — de la física de plasmas a la IA o la educación financiera, sigo la curiosidad a donde lleve.
-
----
-
 ## 🌱 ECOLUME — La visión a largo plazo
 
 > 🇲🇽 Construyendo una **empresa de diseño y fabricación de PCBs en México** — enfocada en calidad, cadena de suministro local y electrónica accesible para ingenieros y makers mexicanos.
 >
-> Mi experiencia en diseño de circuitos, sistemas embebidos y rehabilitación de componentes industriales es la base técnica. Actualmente en etapa de concepto — primero va la ingeniería.
+> Mi experiencia práctica en diseño de circuitos, sistemas embebidos y rehabilitación de componentes industriales es la base de este proyecto. Actualmente en etapa de concepto.
 >
 > *¿Te interesa colaborar o compartes esta visión? Hablemos.*
+
+---
+
+## 🎮 Más allá de la ingeniería
+
+Creo que los ingenieros se forman con más cosas que sus herramientas. Fuera del laboratorio:
+
+- 🎧 **DJ (Hardstyle & Hardcore)** — mezclo y produzco música electrónica. Hay más conexión entre el procesamiento de señales y la música de lo que la mayoría imagina.
+- 🎮 **Desarrollador de videojuegos indie** — construyo juegos en solitario: diseño, código y pensamiento sistémico al mismo tiempo.
+- 📖 **9 semestres de mecatrónica — documentados** — compilé todo mi plan de estudios universitario en un solo [repositorio de referencia](https://github.com/Wilbert83/INGENIERIA-MECATRONICA) como base de conocimiento viva.
+- 🔭 **Curioso por naturaleza** — de la física de plasmas a la IA o la educación financiera, sigo la curiosidad a donde lleve.
 
 ---
 
@@ -200,11 +179,7 @@ Creo que los ingenieros se forman con más cosas que sus herramientas. Fuera del
 
 <div align="center">
 
-*"La Mecatrónica representa tanto una disciplina interdisciplinaria — donde las disciplinas se fusionan y crean enfoques que no existían por separado — como una filosofía de diseño que integra de manera armónica la mecánica, la electrónica, la informática y el control automático para crear sistemas inteligentes y adaptativos."*
-
-<br/>
-
-[🇺🇸 Read in English](./README.md)
+*"La Mecatrónica representa tanto una disciplina interdisciplinaria — donde las disciplinas se fusionan y crean enfoques que no existían por separado — como una filosofía de diseño multidisciplinaria donde cada especialización mantiene su identidad trabajando en sinergia. Integra la mecánica, la electrónica, la informática y las teorías de control automático para crear sistemas inteligentes, adaptativos y funcionales."*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
 
